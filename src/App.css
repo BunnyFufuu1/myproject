@@ -1,0 +1,61 @@
+.Card{
+    border: 10px solid cyan;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.Card .Card-img{
+    border-radius: 50%;
+    margin-bottom: 1px;
+    height: auto;   
+}
+
+.Card .Card-name{
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: black;
+}
+
+.Card .Card-profile{
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: blue;
+    font-size: medium;
+    margin: 10px;
+}
+
+.Minion{
+    border: 10px solid crimson;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+    box-shadow: 5px 5px 5px red;
+}
+
+.Minion .Minion-img{
+    border-radius: 50%;
+    margin-bottom: 1px;
+    height: auto;   
+}
+
+.Minion .Minion-name{
+    font-style: Helvetica   ;
+    margin: 0;
+    color: black;
+}
+
+.Minion .Minion-profile{
+    font-style:  Helvetica;
+    margin: 0;
+    color: blue;
+    font-size: medium;
+    margin: 10px;
+}
